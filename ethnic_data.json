@@ -1,0 +1,1472 @@
+[
+  {
+    "country": "Uganda",
+    "ethnicFractionalization": "0.9302",
+    "linguisticFractionalization": "0.9227",
+    "religiousFractionalization": "0.6332",
+    "pop2021": "47123.5310"
+  },
+  {
+    "country": "Liberia",
+    "ethnicFractionalization": "0.9084",
+    "linguisticFractionalization": "0.9038",
+    "religiousFractionalization": "0.4883",
+    "pop2021": "5180.2030"
+  },
+  {
+    "country": "Madagascar",
+    "ethnicFractionalization": "0.8791",
+    "linguisticFractionalization": "0.0204",
+    "religiousFractionalization": "0.5191",
+    "pop2021": "28427.3280"
+  },
+  {
+    "country": "Republic of Congo",
+    "ethnicFractionalization": "0.8747",
+    "linguisticFractionalization": "0.6871",
+    "religiousFractionalization": "0.6642",
+    "pop2021": "5657.0130"
+  },
+  {
+    "country": "Democratic Republic of the Congo",
+    "ethnicFractionalization": "0.8747",
+    "linguisticFractionalization": "0.8705",
+    "religiousFractionalization": "0.7021",
+    "pop2021": "92377.9930"
+  },
+  {
+    "country": "Cameroon",
+    "ethnicFractionalization": "0.8635",
+    "linguisticFractionalization": "0.8898",
+    "religiousFractionalization": "0.7338",
+    "pop2021": "27224.2650"
+  },
+  {
+    "country": "Chad",
+    "ethnicFractionalization": "0.8620",
+    "linguisticFractionalization": "0.8635",
+    "religiousFractionalization": "0.6411",
+    "pop2021": "16914.9850"
+  },
+  {
+    "country": "Kenya",
+    "ethnicFractionalization": "0.8588",
+    "linguisticFractionalization": "0.8860",
+    "religiousFractionalization": "0.7765",
+    "pop2021": "54985.6980"
+  },
+  {
+    "country": "Nigeria",
+    "ethnicFractionalization": "0.8505",
+    "linguisticFractionalization": "0.8316",
+    "religiousFractionalization": "0.7421",
+    "pop2021": "211400.7080"
+  },
+  {
+    "country": "Central African Republic",
+    "ethnicFractionalization": "0.8295",
+    "linguisticFractionalization": "0.8334",
+    "religiousFractionalization": "0.7916",
+    "pop2021": "4919.9810"
+  },
+  {
+    "country": "Ivory Coast",
+    "ethnicFractionalization": "0.8204",
+    "linguisticFractionalization": "0.7842",
+    "religiousFractionalization": "0.7551",
+    "pop2021": "27053.6290"
+  },
+  {
+    "country": "Sierra Leone",
+    "ethnicFractionalization": "0.8191",
+    "linguisticFractionalization": "0.7634",
+    "religiousFractionalization": "0.5395",
+    "pop2021": "8141.3430"
+  },
+  {
+    "country": "Somalia",
+    "ethnicFractionalization": "0.8117",
+    "linguisticFractionalization": "0.0326",
+    "religiousFractionalization": "0.0028",
+    "pop2021": "16359.5040"
+  },
+  {
+    "country": "Guinea-Bissau",
+    "ethnicFractionalization": "0.8082",
+    "linguisticFractionalization": "0.8141",
+    "religiousFractionalization": "0.6128",
+    "pop2021": "2015.4940"
+  },
+  {
+    "country": "Djibouti",
+    "ethnicFractionalization": "0.7962",
+    "linguisticFractionalization": "0.6558",
+    "religiousFractionalization": "0.0435",
+    "pop2021": "1002.1870"
+  },
+  {
+    "country": "Libya",
+    "ethnicFractionalization": "0.7920",
+    "linguisticFractionalization": "0.0758",
+    "religiousFractionalization": "0.0570",
+    "pop2021": "6958.5320"
+  },
+  {
+    "country": "Benin",
+    "ethnicFractionalization": "0.7872",
+    "linguisticFractionalization": "0.7905",
+    "religiousFractionalization": "0.5544",
+    "pop2021": "12451.0400"
+  },
+  {
+    "country": "Angola",
+    "ethnicFractionalization": "0.7867",
+    "linguisticFractionalization": "0.7870",
+    "religiousFractionalization": "0.6276",
+    "pop2021": "33933.6100"
+  },
+  {
+    "country": "Gambia",
+    "ethnicFractionalization": "0.7864",
+    "linguisticFractionalization": "0.8076",
+    "religiousFractionalization": "0.0970",
+    "pop2021": "2486.9450"
+  },
+  {
+    "country": "Zambia",
+    "ethnicFractionalization": "0.7808",
+    "linguisticFractionalization": "0.8734",
+    "religiousFractionalization": "0.7359",
+    "pop2021": "18920.6510"
+  },
+  {
+    "country": "Afghanistan",
+    "ethnicFractionalization": "0.7693",
+    "linguisticFractionalization": "0.6141",
+    "religiousFractionalization": "0.2717",
+    "pop2021": "39835.4280"
+  },
+  {
+    "country": "Gabon",
+    "ethnicFractionalization": "0.7690",
+    "linguisticFractionalization": "0.7821",
+    "religiousFractionalization": "0.6674",
+    "pop2021": "2278.8250"
+  },
+  {
+    "country": "South Africa",
+    "ethnicFractionalization": "0.7517",
+    "linguisticFractionalization": "0.8652",
+    "religiousFractionalization": "0.8603",
+    "pop2021": "60041.9940"
+  },
+  {
+    "country": "Qatar",
+    "ethnicFractionalization": "0.7456",
+    "linguisticFractionalization": "0.4800",
+    "religiousFractionalization": "0.0950",
+    "pop2021": "2930.5280"
+  },
+  {
+    "country": "Bolivia",
+    "ethnicFractionalization": "0.7396",
+    "linguisticFractionalization": "0.2240",
+    "religiousFractionalization": "0.2085",
+    "pop2021": "11832.9400"
+  },
+  {
+    "country": "Guinea",
+    "ethnicFractionalization": "0.7389",
+    "linguisticFractionalization": "0.7725",
+    "religiousFractionalization": "0.2649",
+    "pop2021": "13497.2440"
+  },
+  {
+    "country": "Burkina Faso",
+    "ethnicFractionalization": "0.7377",
+    "linguisticFractionalization": "0.7228",
+    "religiousFractionalization": "0.5798",
+    "pop2021": "21497.0960"
+  },
+  {
+    "country": "Tanzania",
+    "ethnicFractionalization": "0.7353",
+    "linguisticFractionalization": "0.8983",
+    "religiousFractionalization": "0.6334",
+    "pop2021": "61498.4370"
+  },
+  {
+    "country": "Indonesia",
+    "ethnicFractionalization": "0.7351",
+    "linguisticFractionalization": "0.7680",
+    "religiousFractionalization": "0.2340",
+    "pop2021": "276361.7830"
+  },
+  {
+    "country": "Suriname",
+    "ethnicFractionalization": "0.7332",
+    "linguisticFractionalization": "0.3310",
+    "religiousFractionalization": "0.7910",
+    "pop2021": "591.8000"
+  },
+  {
+    "country": "Ethiopia",
+    "ethnicFractionalization": "0.7235",
+    "linguisticFractionalization": "0.8073",
+    "religiousFractionalization": "0.6249",
+    "pop2021": "117876.2270"
+  },
+  {
+    "country": "Sudan",
+    "ethnicFractionalization": "0.7147",
+    "linguisticFractionalization": "0.7190",
+    "religiousFractionalization": "0.4307",
+    "pop2021": "44909.3530"
+  },
+  {
+    "country": "Andorra",
+    "ethnicFractionalization": "0.7139",
+    "linguisticFractionalization": "0.6848",
+    "religiousFractionalization": "0.2326",
+    "pop2021": "77.3550"
+  },
+  {
+    "country": "Canada",
+    "ethnicFractionalization": "0.7124",
+    "linguisticFractionalization": "0.5772",
+    "religiousFractionalization": "0.6958",
+    "pop2021": "38067.9030"
+  },
+  {
+    "country": "Togo",
+    "ethnicFractionalization": "0.7099",
+    "linguisticFractionalization": "0.8980",
+    "religiousFractionalization": "0.6596",
+    "pop2021": "8478.2500"
+  },
+  {
+    "country": "Pakistan",
+    "ethnicFractionalization": "0.7098",
+    "linguisticFractionalization": "0.7190",
+    "religiousFractionalization": "0.3848",
+    "pop2021": "225199.9370"
+  },
+  {
+    "country": "Belize",
+    "ethnicFractionalization": "0.7015",
+    "linguisticFractionalization": "0.6303",
+    "religiousFractionalization": "0.5813",
+    "pop2021": "404.9140"
+  },
+  {
+    "country": "Micronesia",
+    "ethnicFractionalization": "0.7005",
+    "linguisticFractionalization": "0.7483",
+    "religiousFractionalization": "0.6469",
+    "pop2021": "116.2540"
+  },
+  {
+    "country": "Senegal",
+    "ethnicFractionalization": "0.6939",
+    "linguisticFractionalization": "0.7081",
+    "religiousFractionalization": "0.1497",
+    "pop2021": "17196.3010"
+  },
+  {
+    "country": "Mozambique",
+    "ethnicFractionalization": "0.6932",
+    "linguisticFractionalization": "0.8125",
+    "religiousFractionalization": "0.6759",
+    "pop2021": "32163.0470"
+  },
+  {
+    "country": "Mali",
+    "ethnicFractionalization": "0.6906",
+    "linguisticFractionalization": "0.8388",
+    "religiousFractionalization": "0.1820",
+    "pop2021": "20855.7350"
+  },
+  {
+    "country": "Monaco",
+    "ethnicFractionalization": "0.6838",
+    "linguisticFractionalization": "0.7305",
+    "religiousFractionalization": "0.3047",
+    "pop2021": "39.5110"
+  },
+  {
+    "country": "Kyrgyzstan",
+    "ethnicFractionalization": "0.6752",
+    "linguisticFractionalization": "0.5949",
+    "religiousFractionalization": "0.4470",
+    "pop2021": "6628.3560"
+  },
+  {
+    "country": "Malawi",
+    "ethnicFractionalization": "0.6744",
+    "linguisticFractionalization": "0.6023",
+    "religiousFractionalization": "0.8192",
+    "pop2021": "19647.6840"
+  },
+  {
+    "country": "Ghana",
+    "ethnicFractionalization": "0.6733",
+    "linguisticFractionalization": "0.6731",
+    "religiousFractionalization": "0.7987",
+    "pop2021": "31732.1290"
+  },
+  {
+    "country": "Iran",
+    "ethnicFractionalization": "0.6684",
+    "linguisticFractionalization": "0.7462",
+    "religiousFractionalization": "0.1152",
+    "pop2021": "85028.7590"
+  },
+  {
+    "country": "Nepal",
+    "ethnicFractionalization": "0.6632",
+    "linguisticFractionalization": "0.7167",
+    "religiousFractionalization": "0.1417",
+    "pop2021": "29674.9200"
+  },
+  {
+    "country": "Kuwait",
+    "ethnicFractionalization": "0.6604",
+    "linguisticFractionalization": "0.3444",
+    "religiousFractionalization": "0.6745",
+    "pop2021": "4328.5500"
+  },
+  {
+    "country": "Peru",
+    "ethnicFractionalization": "0.6566",
+    "linguisticFractionalization": "0.3358",
+    "religiousFractionalization": "0.1988",
+    "pop2021": "33359.4180"
+  },
+  {
+    "country": "Ecuador",
+    "ethnicFractionalization": "0.6550",
+    "linguisticFractionalization": "0.1308",
+    "religiousFractionalization": "0.1417",
+    "pop2021": "17888.4750"
+  },
+  {
+    "country": "Eritrea",
+    "ethnicFractionalization": "0.6524",
+    "linguisticFractionalization": "0.6530",
+    "religiousFractionalization": "0.4253",
+    "pop2021": "3601.4670"
+  },
+  {
+    "country": "Niger",
+    "ethnicFractionalization": "0.6518",
+    "linguisticFractionalization": "0.6519",
+    "religiousFractionalization": "0.2013",
+    "pop2021": "25130.8170"
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "ethnicFractionalization": "0.6475",
+    "linguisticFractionalization": "0.1251",
+    "religiousFractionalization": "0.7936",
+    "pop2021": "1403.3750"
+  },
+  {
+    "country": "Thailand",
+    "ethnicFractionalization": "0.6338",
+    "linguisticFractionalization": "0.6344",
+    "religiousFractionalization": "0.0994",
+    "pop2021": "69950.8500"
+  },
+  {
+    "country": "Namibia",
+    "ethnicFractionalization": "0.6329",
+    "linguisticFractionalization": "0.7005",
+    "religiousFractionalization": "0.6626",
+    "pop2021": "2587.3440"
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "ethnicFractionalization": "0.6300",
+    "linguisticFractionalization": "0.6751",
+    "religiousFractionalization": "0.6851",
+    "pop2021": "3263.4660"
+  },
+  {
+    "country": "United Arab Emirates",
+    "ethnicFractionalization": "0.6252",
+    "linguisticFractionalization": "0.4874",
+    "religiousFractionalization": "0.3310",
+    "pop2021": "9991.0890"
+  },
+  {
+    "country": "Guyana",
+    "ethnicFractionalization": "0.6195",
+    "linguisticFractionalization": "0.0688",
+    "religiousFractionalization": "0.7876",
+    "pop2021": "790.3260"
+  },
+  {
+    "country": "Kazakhstan",
+    "ethnicFractionalization": "0.6171",
+    "linguisticFractionalization": "0.6621",
+    "religiousFractionalization": "0.5898",
+    "pop2021": "18994.9620"
+  },
+  {
+    "country": "Mauritania",
+    "ethnicFractionalization": "0.6150",
+    "linguisticFractionalization": "0.3260",
+    "religiousFractionalization": "0.0149",
+    "pop2021": "4775.1190"
+  },
+  {
+    "country": "Bhutan",
+    "ethnicFractionalization": "0.6050",
+    "linguisticFractionalization": "0.6056",
+    "religiousFractionalization": "0.3787",
+    "pop2021": "779.8980"
+  },
+  {
+    "country": "Colombia",
+    "ethnicFractionalization": "0.6014",
+    "linguisticFractionalization": "0.0193",
+    "religiousFractionalization": "0.1478",
+    "pop2021": "51265.8440"
+  },
+  {
+    "country": "Jordan",
+    "ethnicFractionalization": "0.5926",
+    "linguisticFractionalization": "0.0396",
+    "religiousFractionalization": "0.0659",
+    "pop2021": "10269.0210"
+  },
+  {
+    "country": "Cuba",
+    "ethnicFractionalization": "0.5908",
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": "0.5059",
+    "pop2021": "11317.5050"
+  },
+  {
+    "country": "Malaysia",
+    "ethnicFractionalization": "0.5880",
+    "linguisticFractionalization": "0.5970",
+    "religiousFractionalization": "0.6657",
+    "pop2021": "32776.1940"
+  },
+  {
+    "country": "Latvia",
+    "ethnicFractionalization": "0.5867",
+    "linguisticFractionalization": "0.5795",
+    "religiousFractionalization": "0.5556",
+    "pop2021": "1866.9420"
+  },
+  {
+    "country": "Nauru",
+    "ethnicFractionalization": "0.5832",
+    "linguisticFractionalization": "0.6161",
+    "religiousFractionalization": "0.6194",
+    "pop2021": "10.8760"
+  },
+  {
+    "country": "Serbia",
+    "ethnicFractionalization": "0.5736",
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": 0,
+    "pop2021": "8697.5500"
+  },
+  {
+    "country": "Liechtenstein",
+    "ethnicFractionalization": "0.5726",
+    "linguisticFractionalization": "0.2246",
+    "religiousFractionalization": "0.3343",
+    "pop2021": "38.2500"
+  },
+  {
+    "country": "Belgium",
+    "ethnicFractionalization": "0.5554",
+    "linguisticFractionalization": "0.5409",
+    "religiousFractionalization": "0.2127",
+    "pop2021": "11632.3260"
+  },
+  {
+    "country": "Moldova",
+    "ethnicFractionalization": "0.5535",
+    "linguisticFractionalization": "0.5533",
+    "religiousFractionalization": "0.5603",
+    "pop2021": "4024.0190"
+  },
+  {
+    "country": "Panama",
+    "ethnicFractionalization": "0.5528",
+    "linguisticFractionalization": "0.3873",
+    "religiousFractionalization": "0.3338",
+    "pop2021": "4381.5790"
+  },
+  {
+    "country": "Fiji",
+    "ethnicFractionalization": "0.5479",
+    "linguisticFractionalization": "0.5479",
+    "religiousFractionalization": "0.5682",
+    "pop2021": "902.9060"
+  },
+  {
+    "country": "Mexico",
+    "ethnicFractionalization": "0.5418",
+    "linguisticFractionalization": "0.1511",
+    "religiousFractionalization": "0.1796",
+    "pop2021": "130262.2160"
+  },
+  {
+    "country": "Brunei",
+    "ethnicFractionalization": "0.5416",
+    "linguisticFractionalization": "0.3438",
+    "religiousFractionalization": "0.4404",
+    "pop2021": "441.5320"
+  },
+  {
+    "country": "Brazil",
+    "ethnicFractionalization": "0.5408",
+    "linguisticFractionalization": "0.0468",
+    "religiousFractionalization": "0.6054",
+    "pop2021": "213993.4370"
+  },
+  {
+    "country": "Syria",
+    "ethnicFractionalization": "0.5399",
+    "linguisticFractionalization": "0.1817",
+    "religiousFractionalization": "0.4310",
+    "pop2021": "18275.7020"
+  },
+  {
+    "country": "Switzerland",
+    "ethnicFractionalization": "0.5314",
+    "linguisticFractionalization": "0.5441",
+    "religiousFractionalization": "0.6083",
+    "pop2021": "8715.4940"
+  },
+  {
+    "country": "Luxembourg",
+    "ethnicFractionalization": "0.5302",
+    "linguisticFractionalization": "0.6440",
+    "religiousFractionalization": "0.0911",
+    "pop2021": "634.8140"
+  },
+  {
+    "country": "Laos",
+    "ethnicFractionalization": "0.5139",
+    "linguisticFractionalization": "0.6382",
+    "religiousFractionalization": "0.5453",
+    "pop2021": "7379.3580"
+  },
+  {
+    "country": "Guatemala",
+    "ethnicFractionalization": "0.5122",
+    "linguisticFractionalization": "0.4586",
+    "religiousFractionalization": "0.3753",
+    "pop2021": "18249.8600"
+  },
+  {
+    "country": "Tajikistan",
+    "ethnicFractionalization": "0.5107",
+    "linguisticFractionalization": "0.5473",
+    "religiousFractionalization": "0.3386",
+    "pop2021": "9749.6270"
+  },
+  {
+    "country": "Estonia",
+    "ethnicFractionalization": "0.5062",
+    "linguisticFractionalization": "0.4944",
+    "religiousFractionalization": "0.4985",
+    "pop2021": "1325.1850"
+  },
+  {
+    "country": "Myanmar",
+    "ethnicFractionalization": "0.5062",
+    "linguisticFractionalization": "0.5072",
+    "religiousFractionalization": "0.1974",
+    "pop2021": "54806.0120"
+  },
+  {
+    "country": "Macedonia",
+    "ethnicFractionalization": "0.5023",
+    "linguisticFractionalization": "0.5021",
+    "religiousFractionalization": "0.5899",
+    "pop2021": "2082.6580"
+  },
+  {
+    "country": "Bahrain",
+    "ethnicFractionalization": "0.5021",
+    "linguisticFractionalization": "0.4344",
+    "religiousFractionalization": "0.5528",
+    "pop2021": "1748.2960"
+  },
+  {
+    "country": "Venezuela",
+    "ethnicFractionalization": "0.4966",
+    "linguisticFractionalization": "0.0686",
+    "religiousFractionalization": "0.1350",
+    "pop2021": "28704.9540"
+  },
+  {
+    "country": "Georgia",
+    "ethnicFractionalization": "0.4923",
+    "linguisticFractionalization": "0.4749",
+    "religiousFractionalization": "0.6543",
+    "pop2021": "3979.7650"
+  },
+  {
+    "country": "United States",
+    "ethnicFractionalization": "0.4901",
+    "linguisticFractionalization": "0.5647",
+    "religiousFractionalization": "0.8241",
+    "pop2021": "332915.0730"
+  },
+  {
+    "country": "Nicaragua",
+    "ethnicFractionalization": "0.4844",
+    "linguisticFractionalization": "0.0473",
+    "religiousFractionalization": "0.4290",
+    "pop2021": "6702.3850"
+  },
+  {
+    "country": "Morocco",
+    "ethnicFractionalization": "0.4841",
+    "linguisticFractionalization": "0.4683",
+    "religiousFractionalization": "0.0035",
+    "pop2021": "37344.7950"
+  },
+  {
+    "country": "Ukraine",
+    "ethnicFractionalization": "0.4737",
+    "linguisticFractionalization": "0.4741",
+    "religiousFractionalization": "0.6157",
+    "pop2021": "43466.8190"
+  },
+  {
+    "country": "Mauritius",
+    "ethnicFractionalization": "0.4634",
+    "linguisticFractionalization": "0.4547",
+    "religiousFractionalization": "0.6385",
+    "pop2021": "1273.4330"
+  },
+  {
+    "country": "Oman",
+    "ethnicFractionalization": "0.4373",
+    "linguisticFractionalization": "0.3567",
+    "religiousFractionalization": "0.4322",
+    "pop2021": "5223.3750"
+  },
+  {
+    "country": "Palau",
+    "ethnicFractionalization": "0.4312",
+    "linguisticFractionalization": "0.3157",
+    "religiousFractionalization": "0.7147",
+    "pop2021": "18.1690"
+  },
+  {
+    "country": "Dominican Republic",
+    "ethnicFractionalization": "0.4294",
+    "linguisticFractionalization": "0.0395",
+    "religiousFractionalization": "0.3118",
+    "pop2021": "10953.7030"
+  },
+  {
+    "country": "Bahamas",
+    "ethnicFractionalization": "0.4228",
+    "linguisticFractionalization": "0.1855",
+    "religiousFractionalization": "0.6815",
+    "pop2021": "396.9130"
+  },
+  {
+    "country": "India",
+    "ethnicFractionalization": "0.4182",
+    "linguisticFractionalization": "0.8069",
+    "religiousFractionalization": "0.3260",
+    "pop2021": "1393409.0380"
+  },
+  {
+    "country": "Cape Verde",
+    "ethnicFractionalization": "0.4174",
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": "0.0766",
+    "pop2021": "561.8980"
+  },
+  {
+    "country": "Spain",
+    "ethnicFractionalization": "0.4165",
+    "linguisticFractionalization": "0.4132",
+    "religiousFractionalization": "0.4514",
+    "pop2021": "46745.2160"
+  },
+  {
+    "country": "Sri Lanka",
+    "ethnicFractionalization": "0.4150",
+    "linguisticFractionalization": "0.4645",
+    "religiousFractionalization": "0.4853",
+    "pop2021": "21497.3100"
+  },
+  {
+    "country": "Jamaica",
+    "ethnicFractionalization": "0.4129",
+    "linguisticFractionalization": "0.1098",
+    "religiousFractionalization": "0.6160",
+    "pop2021": "2973.4630"
+  },
+  {
+    "country": "Uzbekistan",
+    "ethnicFractionalization": "0.4125",
+    "linguisticFractionalization": "0.4120",
+    "religiousFractionalization": "0.2133",
+    "pop2021": "33935.7630"
+  },
+  {
+    "country": "Botswana",
+    "ethnicFractionalization": "0.4102",
+    "linguisticFractionalization": "0.4110",
+    "religiousFractionalization": "0.5986",
+    "pop2021": "2397.2410"
+  },
+  {
+    "country": "Bulgaria",
+    "ethnicFractionalization": "0.4021",
+    "linguisticFractionalization": "0.3031",
+    "religiousFractionalization": "0.5965",
+    "pop2021": "6896.6630"
+  },
+  {
+    "country": "New Zealand",
+    "ethnicFractionalization": "0.3969",
+    "linguisticFractionalization": "0.1657",
+    "religiousFractionalization": "0.8110",
+    "pop2021": "4860.6430"
+  },
+  {
+    "country": "Turkmenistan",
+    "ethnicFractionalization": "0.3918",
+    "linguisticFractionalization": "0.3984",
+    "religiousFractionalization": "0.2327",
+    "pop2021": "6117.9240"
+  },
+  {
+    "country": "Zimbabwe",
+    "ethnicFractionalization": "0.3874",
+    "linguisticFractionalization": "0.4472",
+    "religiousFractionalization": "0.7363",
+    "pop2021": "15092.1710"
+  },
+  {
+    "country": "Singapore",
+    "ethnicFractionalization": "0.3857",
+    "linguisticFractionalization": "0.3835",
+    "religiousFractionalization": "0.6561",
+    "pop2021": "5896.6860"
+  },
+  {
+    "country": "Croatia",
+    "ethnicFractionalization": "0.3690",
+    "linguisticFractionalization": "0.0763",
+    "religiousFractionalization": "0.4447",
+    "pop2021": "4081.6510"
+  },
+  {
+    "country": "Iraq",
+    "ethnicFractionalization": "0.3689",
+    "linguisticFractionalization": "0.3694",
+    "religiousFractionalization": "0.4844",
+    "pop2021": "41179.3500"
+  },
+  {
+    "country": "Mongolia",
+    "ethnicFractionalization": "0.3682",
+    "linguisticFractionalization": "0.3734",
+    "religiousFractionalization": "0.0799",
+    "pop2021": "3329.2890"
+  },
+  {
+    "country": "Equatorial Guinea",
+    "ethnicFractionalization": "0.3467",
+    "linguisticFractionalization": "0.3220",
+    "religiousFractionalization": "0.1195",
+    "pop2021": "1449.8960"
+  },
+  {
+    "country": "Israel",
+    "ethnicFractionalization": "0.3436",
+    "linguisticFractionalization": "0.5525",
+    "religiousFractionalization": "0.3469",
+    "pop2021": "8789.7740"
+  },
+  {
+    "country": "Algeria",
+    "ethnicFractionalization": "0.3394",
+    "linguisticFractionalization": "0.4427",
+    "religiousFractionalization": "0.0091",
+    "pop2021": "44616.6240"
+  },
+  {
+    "country": "Rwanda",
+    "ethnicFractionalization": "0.3238",
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": "0.5066",
+    "pop2021": "13276.5130"
+  },
+  {
+    "country": "Lithuania",
+    "ethnicFractionalization": "0.3223",
+    "linguisticFractionalization": "0.3219",
+    "religiousFractionalization": "0.4141",
+    "pop2021": "2689.8620"
+  },
+  {
+    "country": "Belarus",
+    "ethnicFractionalization": "0.3222",
+    "linguisticFractionalization": "0.4666",
+    "religiousFractionalization": "0.6116",
+    "pop2021": "9442.8620"
+  },
+  {
+    "country": "Czech Republic",
+    "ethnicFractionalization": "0.3222",
+    "linguisticFractionalization": "0.3233",
+    "religiousFractionalization": "0.6591",
+    "pop2021": "10724.5550"
+  },
+  {
+    "country": "Turkey",
+    "ethnicFractionalization": "0.3200",
+    "linguisticFractionalization": "0.2216",
+    "religiousFractionalization": "0.0049",
+    "pop2021": "85042.7380"
+  },
+  {
+    "country": "Romania",
+    "ethnicFractionalization": "0.3069",
+    "linguisticFractionalization": "0.1723",
+    "religiousFractionalization": "0.2373",
+    "pop2021": "19127.7740"
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "ethnicFractionalization": "0.3066",
+    "linguisticFractionalization": "0.0175",
+    "religiousFractionalization": "0.7028",
+    "pop2021": "111.2630"
+  },
+  {
+    "country": "Burundi",
+    "ethnicFractionalization": "0.2951",
+    "linguisticFractionalization": "0.2977",
+    "religiousFractionalization": "0.5158",
+    "pop2021": "12255.4330"
+  },
+  {
+    "country": "San Marino",
+    "ethnicFractionalization": "0.2927",
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": "0.1975",
+    "pop2021": "34.0170"
+  },
+  {
+    "country": "Taiwan",
+    "ethnicFractionalization": "0.2744",
+    "linguisticFractionalization": "0.5028",
+    "religiousFractionalization": "0.6845",
+    "pop2021": "23855.0100"
+  },
+  {
+    "country": "Papua New Guinea",
+    "ethnicFractionalization": "0.2718",
+    "linguisticFractionalization": "0.3526",
+    "religiousFractionalization": "0.5523",
+    "pop2021": "9119.0100"
+  },
+  {
+    "country": "Grenada",
+    "ethnicFractionalization": "0.2661",
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": "0.5898",
+    "pop2021": "113.0210"
+  },
+  {
+    "country": "Lesotho",
+    "ethnicFractionalization": "0.2550",
+    "linguisticFractionalization": "0.2543",
+    "religiousFractionalization": "0.7211",
+    "pop2021": "2159.0790"
+  },
+  {
+    "country": "Argentina",
+    "ethnicFractionalization": "0.2550",
+    "linguisticFractionalization": "0.0618",
+    "religiousFractionalization": "0.2236",
+    "pop2021": "45605.8260"
+  },
+  {
+    "country": "Slovakia",
+    "ethnicFractionalization": "0.2539",
+    "linguisticFractionalization": "0.2551",
+    "religiousFractionalization": "0.5655",
+    "pop2021": "5460.7210"
+  },
+  {
+    "country": "Uruguay",
+    "ethnicFractionalization": "0.2504",
+    "linguisticFractionalization": "0.0817",
+    "religiousFractionalization": "0.3548",
+    "pop2021": "3485.1510"
+  },
+  {
+    "country": "Russia",
+    "ethnicFractionalization": "0.2452",
+    "linguisticFractionalization": "0.2485",
+    "religiousFractionalization": "0.4398",
+    "pop2021": "145912.0250"
+  },
+  {
+    "country": "Philippines",
+    "ethnicFractionalization": "0.2385",
+    "linguisticFractionalization": "0.8360",
+    "religiousFractionalization": "0.3056",
+    "pop2021": "111046.9130"
+  },
+  {
+    "country": "Vietnam",
+    "ethnicFractionalization": "0.2383",
+    "linguisticFractionalization": "0.2377",
+    "religiousFractionalization": "0.5080",
+    "pop2021": "98168.8330"
+  },
+  {
+    "country": "Costa Rica",
+    "ethnicFractionalization": "0.2368",
+    "linguisticFractionalization": "0.0489",
+    "religiousFractionalization": "0.2410",
+    "pop2021": "5139.0520"
+  },
+  {
+    "country": "Slovenia",
+    "ethnicFractionalization": "0.2216",
+    "linguisticFractionalization": "0.2201",
+    "religiousFractionalization": "0.2868",
+    "pop2021": "2078.7240"
+  },
+  {
+    "country": "Albania",
+    "ethnicFractionalization": "0.2204",
+    "linguisticFractionalization": "0.0399",
+    "religiousFractionalization": "0.4719",
+    "pop2021": "2872.9330"
+  },
+  {
+    "country": "Cambodia",
+    "ethnicFractionalization": "0.2105",
+    "linguisticFractionalization": "0.2104",
+    "religiousFractionalization": "0.0965",
+    "pop2021": "16946.4380"
+  },
+  {
+    "country": "Azerbaijan",
+    "ethnicFractionalization": "0.2047",
+    "linguisticFractionalization": "0.2054",
+    "religiousFractionalization": "0.4899",
+    "pop2021": "10223.3420"
+  },
+  {
+    "country": "Seychelles",
+    "ethnicFractionalization": "0.2025",
+    "linguisticFractionalization": "0.1606",
+    "religiousFractionalization": "0.2323",
+    "pop2021": "98.9080"
+  },
+  {
+    "country": "Dominica",
+    "ethnicFractionalization": "0.2003",
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": "0.4628",
+    "pop2021": "72.1670"
+  },
+  {
+    "country": "El Salvador",
+    "ethnicFractionalization": "0.1978",
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": "0.3559",
+    "pop2021": "6518.4990"
+  },
+  {
+    "country": "Honduras",
+    "ethnicFractionalization": "0.1867",
+    "linguisticFractionalization": "0.0553",
+    "religiousFractionalization": "0.2357",
+    "pop2021": "10062.9910"
+  },
+  {
+    "country": "Chile",
+    "ethnicFractionalization": "0.1861",
+    "linguisticFractionalization": "0.1871",
+    "religiousFractionalization": "0.3841",
+    "pop2021": "19212.3610"
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "ethnicFractionalization": "0.1842",
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": "0.6614",
+    "pop2021": "53.5440"
+  },
+  {
+    "country": "Egypt",
+    "ethnicFractionalization": "0.1836",
+    "linguisticFractionalization": "0.0237",
+    "religiousFractionalization": "0.1979",
+    "pop2021": "104258.3270"
+  },
+  {
+    "country": "Saudi Arabia",
+    "ethnicFractionalization": "0.1800",
+    "linguisticFractionalization": "0.0949",
+    "religiousFractionalization": "0.1270",
+    "pop2021": "35340.6830"
+  },
+  {
+    "country": "Saint Lucia",
+    "ethnicFractionalization": "0.1769",
+    "linguisticFractionalization": "0.3169",
+    "religiousFractionalization": "0.3320",
+    "pop2021": "184.4000"
+  },
+  {
+    "country": "Paraguay",
+    "ethnicFractionalization": "0.1689",
+    "linguisticFractionalization": "0.5975",
+    "religiousFractionalization": "0.2123",
+    "pop2021": "7219.6380"
+  },
+  {
+    "country": "Germany",
+    "ethnicFractionalization": "0.1682",
+    "linguisticFractionalization": "0.1642",
+    "religiousFractionalization": "0.6571",
+    "pop2021": "83900.4730"
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "ethnicFractionalization": "0.1643",
+    "linguisticFractionalization": "0.1063",
+    "religiousFractionalization": "0.6840",
+    "pop2021": "98.7310"
+  },
+  {
+    "country": "Tuvalu",
+    "ethnicFractionalization": "0.1629",
+    "linguisticFractionalization": "0.1372",
+    "religiousFractionalization": "0.2524",
+    "pop2021": "11.9310"
+  },
+  {
+    "country": "Greece",
+    "ethnicFractionalization": "0.1576",
+    "linguisticFractionalization": "0.0300",
+    "religiousFractionalization": "0.1530",
+    "pop2021": "10370.7440"
+  },
+  {
+    "country": "China",
+    "ethnicFractionalization": "0.1538",
+    "linguisticFractionalization": "0.1327",
+    "religiousFractionalization": "0.6643",
+    "pop2021": "1444216.1070"
+  },
+  {
+    "country": "Hungary",
+    "ethnicFractionalization": "0.1522",
+    "linguisticFractionalization": "0.0297",
+    "religiousFractionalization": "0.5244",
+    "pop2021": "9634.1640"
+  },
+  {
+    "country": "Barbados",
+    "ethnicFractionalization": "0.1423",
+    "linguisticFractionalization": "0.0926",
+    "religiousFractionalization": "0.6934",
+    "pop2021": "287.7110"
+  },
+  {
+    "country": "Samoa",
+    "ethnicFractionalization": "0.1376",
+    "linguisticFractionalization": "0.0111",
+    "religiousFractionalization": "0.7871",
+    "pop2021": "200.1490"
+  },
+  {
+    "country": "Finland",
+    "ethnicFractionalization": "0.1315",
+    "linguisticFractionalization": "0.1412",
+    "religiousFractionalization": "0.2531",
+    "pop2021": "5548.3600"
+  },
+  {
+    "country": "Lebanon",
+    "ethnicFractionalization": "0.1314",
+    "linguisticFractionalization": "0.1312",
+    "religiousFractionalization": "0.7886",
+    "pop2021": "6769.1460"
+  },
+  {
+    "country": "Armenia",
+    "ethnicFractionalization": "0.1272",
+    "linguisticFractionalization": "0.1291",
+    "religiousFractionalization": "0.4576",
+    "pop2021": "2968.1270"
+  },
+  {
+    "country": "United Kingdom",
+    "ethnicFractionalization": "0.1211",
+    "linguisticFractionalization": "0.0532",
+    "religiousFractionalization": "0.6944",
+    "pop2021": "68207.1160"
+  },
+  {
+    "country": "Ireland",
+    "ethnicFractionalization": "0.1206",
+    "linguisticFractionalization": "0.0312",
+    "religiousFractionalization": "0.1550",
+    "pop2021": "4982.9070"
+  },
+  {
+    "country": "Poland",
+    "ethnicFractionalization": "0.1183",
+    "linguisticFractionalization": "0.0468",
+    "religiousFractionalization": "0.1712",
+    "pop2021": "37797.0050"
+  },
+  {
+    "country": "Italy",
+    "ethnicFractionalization": "0.1145",
+    "linguisticFractionalization": "0.1147",
+    "religiousFractionalization": "0.3027",
+    "pop2021": "60367.4770"
+  },
+  {
+    "country": "Solomon Islands",
+    "ethnicFractionalization": "0.1110",
+    "linguisticFractionalization": "0.5254",
+    "religiousFractionalization": "0.6708",
+    "pop2021": "703.9960"
+  },
+  {
+    "country": "Austria",
+    "ethnicFractionalization": "0.1068",
+    "linguisticFractionalization": "0.1522",
+    "religiousFractionalization": "0.4146",
+    "pop2021": "9043.0700"
+  },
+  {
+    "country": "Netherlands",
+    "ethnicFractionalization": "0.1054",
+    "linguisticFractionalization": "0.5143",
+    "religiousFractionalization": "0.7222",
+    "pop2021": "17173.0990"
+  },
+  {
+    "country": "France",
+    "ethnicFractionalization": "0.1032",
+    "linguisticFractionalization": "0.1221",
+    "religiousFractionalization": "0.4029",
+    "pop2021": "65426.1790"
+  },
+  {
+    "country": "Haiti",
+    "ethnicFractionalization": "0.0950",
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": "0.4704",
+    "pop2021": "11541.6850"
+  },
+  {
+    "country": "Cyprus",
+    "ethnicFractionalization": "0.0939",
+    "linguisticFractionalization": "0.3962",
+    "religiousFractionalization": "0.3962",
+    "pop2021": "1215.5840"
+  },
+  {
+    "country": "Australia",
+    "ethnicFractionalization": "0.0929",
+    "linguisticFractionalization": "0.3349",
+    "religiousFractionalization": "0.8211",
+    "pop2021": "25788.2150"
+  },
+  {
+    "country": "Tonga",
+    "ethnicFractionalization": "0.0869",
+    "linguisticFractionalization": "0.3782",
+    "religiousFractionalization": "0.6214",
+    "pop2021": "106.7600"
+  },
+  {
+    "country": "Denmark",
+    "ethnicFractionalization": "0.0819",
+    "linguisticFractionalization": "0.1049",
+    "religiousFractionalization": "0.2333",
+    "pop2021": "5813.2980"
+  },
+  {
+    "country": "Iceland",
+    "ethnicFractionalization": "0.0798",
+    "linguisticFractionalization": "0.0820",
+    "religiousFractionalization": "0.1913",
+    "pop2021": "343.3530"
+  },
+  {
+    "country": "Hong Kong",
+    "ethnicFractionalization": "0.0620",
+    "linguisticFractionalization": "0.2128",
+    "religiousFractionalization": "0.4191",
+    "pop2021": "7552.8100"
+  },
+  {
+    "country": "Marshall Islands",
+    "ethnicFractionalization": "0.0603",
+    "linguisticFractionalization": "0.0734",
+    "religiousFractionalization": "0.5207",
+    "pop2021": "59.6100"
+  },
+  {
+    "country": "Sweden",
+    "ethnicFractionalization": "0.0600",
+    "linguisticFractionalization": "0.1968",
+    "religiousFractionalization": "0.2342",
+    "pop2021": "10160.1690"
+  },
+  {
+    "country": "Norway",
+    "ethnicFractionalization": "0.0586",
+    "linguisticFractionalization": "0.0673",
+    "religiousFractionalization": "0.2048",
+    "pop2021": "5465.6300"
+  },
+  {
+    "country": "Swaziland",
+    "ethnicFractionalization": "0.0582",
+    "linguisticFractionalization": "0.1722",
+    "religiousFractionalization": "0.4444",
+    "pop2021": "1172.3620"
+  },
+  {
+    "country": "Kiribati",
+    "ethnicFractionalization": "0.0511",
+    "linguisticFractionalization": "0.0237",
+    "religiousFractionalization": "0.5541",
+    "pop2021": "121.3920"
+  },
+  {
+    "country": "Portugal",
+    "ethnicFractionalization": "0.0468",
+    "linguisticFractionalization": "0.0198",
+    "religiousFractionalization": "0.1438",
+    "pop2021": "10167.9250"
+  },
+  {
+    "country": "Bangladesh",
+    "ethnicFractionalization": "0.0454",
+    "linguisticFractionalization": "0.0925",
+    "religiousFractionalization": "0.2090",
+    "pop2021": "166303.4980"
+  },
+  {
+    "country": "Malta",
+    "ethnicFractionalization": "0.0414",
+    "linguisticFractionalization": "0.0907",
+    "religiousFractionalization": "0.1223",
+    "pop2021": "442.7840"
+  },
+  {
+    "country": "Vanuatu",
+    "ethnicFractionalization": "0.0413",
+    "linguisticFractionalization": "0.5794",
+    "religiousFractionalization": "0.7044",
+    "pop2021": "314.4640"
+  },
+  {
+    "country": "Tunisia",
+    "ethnicFractionalization": "0.0394",
+    "linguisticFractionalization": "0.0124",
+    "religiousFractionalization": "0.0104",
+    "pop2021": "11935.7660"
+  },
+  {
+    "country": "South Korea",
+    "ethnicFractionalization": "0.0392",
+    "linguisticFractionalization": "0.0028",
+    "religiousFractionalization": "0.4891",
+    "pop2021": "51305.1860"
+  },
+  {
+    "country": "Japan",
+    "ethnicFractionalization": "0.0119",
+    "linguisticFractionalization": "0.0178",
+    "religiousFractionalization": "0.5406",
+    "pop2021": "126050.8040"
+  },
+  {
+    "country": "North Korea",
+    "ethnicFractionalization": "0.0020",
+    "linguisticFractionalization": "0.0021",
+    "religiousFractionalization": "0.6604",
+    "pop2021": "25887.0410"
+  },
+  {
+    "country": "Faroe Islands",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": "0.3147",
+    "pop2021": "49.0490"
+  },
+  {
+    "country": "American Samoa",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.1733",
+    "religiousFractionalization": "0.6395",
+    "pop2021": "55.1000"
+  },
+  {
+    "country": "Greenland",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.2188",
+    "religiousFractionalization": "0.4592",
+    "pop2021": "56.8770"
+  },
+  {
+    "country": "Northern Mariana Islands",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.7754",
+    "religiousFractionalization": "0.4811",
+    "pop2021": "57.9170"
+  },
+  {
+    "country": "Bermuda",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": "0.7112",
+    "pop2021": "62.0900"
+  },
+  {
+    "country": "Isle of Man",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": "0.4729",
+    "pop2021": "85.4100"
+  },
+  {
+    "country": "United States Virgin Islands",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.3140",
+    "religiousFractionalization": "0.6359",
+    "pop2021": "104.2260"
+  },
+  {
+    "country": "Aruba",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.3889",
+    "religiousFractionalization": "0.4107",
+    "pop2021": "107.2040"
+  },
+  {
+    "country": "Guam",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.7320",
+    "religiousFractionalization": "0.4082",
+    "pop2021": "170.1790"
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.2322",
+    "religiousFractionalization": "0.1866",
+    "pop2021": "223.3680"
+  },
+  {
+    "country": "Mayotte",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.7212",
+    "religiousFractionalization": "0.0620",
+    "pop2021": "279.5150"
+  },
+  {
+    "country": "French Polynesia",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.6078",
+    "religiousFractionalization": "0.5813",
+    "pop2021": "282.5300"
+  },
+  {
+    "country": "New Caledonia",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.6633",
+    "religiousFractionalization": "0.5462",
+    "pop2021": "288.2180"
+  },
+  {
+    "country": "French Guiana",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.1154",
+    "religiousFractionalization": "0.4959",
+    "pop2021": "306.4480"
+  },
+  {
+    "country": "Martinique",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": 0,
+    "religiousFractionalization": "0.2336",
+    "pop2021": "374.7450"
+  },
+  {
+    "country": "Guadeloupe",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.0933",
+    "religiousFractionalization": "0.3069",
+    "pop2021": "400.0200"
+  },
+  {
+    "country": "Macau",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.2519",
+    "religiousFractionalization": "0.5511",
+    "pop2021": "658.3940"
+  },
+  {
+    "country": "Comoros",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.0103",
+    "religiousFractionalization": "0.0137",
+    "pop2021": "888.4510"
+  },
+  {
+    "country": "Reunion",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.1578",
+    "religiousFractionalization": "0.1952",
+    "pop2021": "901.6860"
+  },
+  {
+    "country": "Timor-Leste",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.5261",
+    "religiousFractionalization": "0.4254",
+    "pop2021": "1343.8730"
+  },
+  {
+    "country": "Puerto Rico",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.0352",
+    "religiousFractionalization": "0.4952",
+    "pop2021": "2828.2550"
+  },
+  {
+    "country": "Yemen",
+    "ethnicFractionalization": 0,
+    "linguisticFractionalization": "0.0080",
+    "religiousFractionalization": "0.0023",
+    "pop2021": "30490.6400"
+  }
+]

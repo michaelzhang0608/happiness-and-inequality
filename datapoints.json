@@ -1,0 +1,142 @@
+[
+  {
+    "country": "Norway",
+    "happiness": 7.554,
+    "gini": 27,
+    "ethnic": 0.0586,
+    "iso": "no"
+  },
+  {
+    "country": "United States",
+    "happiness": 6.892,
+    "gini": 41.1,
+    "ethnic": 0.4901,
+    "iso": "us"
+  },
+  {
+    "country": "Japan",
+    "happiness": 5.886,
+    "gini": 32.9,
+    "ethnic": 0.0119,
+    "iso": "jp"
+  },
+  {
+    "country": "South Korea",
+    "happiness": 5.895,
+    "gini": 31.6,
+    "ethnic": 0.0392,
+    "iso": "kr"
+  },
+  {
+    "country": "United Arab Emirates",
+    "happiness": 6.825,
+    "gini": 32.5,
+    "ethnic": 0.6252,
+    "iso": "ae"
+  },
+  {
+    "country": "Taiwan",
+    "happiness": 6.446,
+    "gini": 33.9,
+    "ethnic": 0.2744,
+    "iso": "tw"
+  },
+  {
+    "country": "United Kingdom",
+    "happiness": 7.054,
+    "gini": 34.8,
+    "ethnic": 0.1211,
+    "iso": "gb"
+  },
+  {
+    "country": "Canada",
+    "happiness": 7.278,
+    "gini": 33.3,
+    "ethnic": 0.7124,
+    "iso": "ca"
+  },
+  {
+    "country": "Australia",
+    "happiness": 7.228,
+    "gini": 34.4,
+    "ethnic": 0.0929,
+    "iso": "au"
+  },
+  {
+    "country": "Venezuela",
+    "happiness": 4.707,
+    "gini": 46.9,
+    "ethnic": 0.4966,
+    "iso": "ve"
+  },
+  {
+    "country": "China",
+    "happiness": 5.191,
+    "gini": 38.5,
+    "ethnic": 0.1538,
+    "iso": "cn"
+  },
+  {
+    "country": "Myanmar",
+    "happiness": 4.36,
+    "gini": 30.7,
+    "ethnic": 0.5062,
+    "iso": "mm"
+  },
+  {
+    "country": "Russia",
+    "happiness": 5.648,
+    "gini": 37.5,
+    "ethnic": 0.2452,
+    "iso": "ru"
+  },
+  {
+    "country": "India",
+    "happiness": 4.015,
+    "gini": 35.7,
+    "ethnic": 0.4182,
+    "iso": "in"
+  },
+  {
+    "country": "Syria",
+    "happiness": 3.3462,
+    "gini": 35.8,
+    "ethnic": 0.5399,
+    "iso": "sy"
+  },
+  {
+    "country": "Haiti",
+    "happiness": 3.597,
+    "gini": 41.1,
+    "ethnic": 0.095,
+    "iso": "ht"
+  },
+  {
+    "country": "Uganda",
+    "happiness": 4.189,
+    "gini": 42.8,
+    "ethnic": 0.9302,
+    "iso": "ug"
+  },
+  {
+    "country": "Madagascar",
+    "happiness": 3.933,
+    "gini": 42.6,
+    "ethnic": 0.8791,
+    "iso": "mg"
+  },
+  {
+    "country": "Ghana",
+    "happiness": 4.996,
+    "gini": 43.5,
+    "ethnic": 0.6733,
+    "iso": "gh"
+  },
+  {
+    "country": "Germany",
+    "happiness": 6.985,
+    "gini": 31.9,
+    "ethnic": 0.1682,
+    "iso": "de"
+  }
+]
